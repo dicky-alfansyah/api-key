@@ -1,0 +1,1 @@
+ini merupakan api key untuk program skripsi saya.

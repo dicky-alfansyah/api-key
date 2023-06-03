@@ -1,0 +1,18 @@
+[project]
+name = "apikey_package_difansyah"
+version = "0.0.1"
+authors = [
+  { name="M Dicky Alfansyah", email="dickyalfansyaah@gmail.com" },
+]
+description = "This is truly amazing"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"MyGithub" = "https://github.com/dicky-alfansyah"
+"GithubProject" = "https://github.com/dicky-alfansyah/api-key"
